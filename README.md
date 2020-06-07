@@ -5,5 +5,5 @@ Image compression is minimizing the size in bytes of a graphics file without deg
 
 Built an image compression application using k-means clustering unsupervised learning algorithm using scikit-learn and Python 
 
-Reference Google Colabs Jupyter notebook :
+for Complete Project Google Colabs Jupyter notebook :
 https://colab.research.google.com/drive/19SwdboGRYwr6ReGuq-NPBPkndqQ6NRX4#scrollTo=uj7-P7QLfXmO
